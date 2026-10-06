@@ -1,0 +1,30 @@
+{
+  "name": "traco-feito-monorepo",
+  "version": "1.0.0",
+  "description": "traco-feito-website",
+  "keywords": [
+    "website",
+    "front-end",
+    "back-end",
+    "nextjs",
+    "node",
+    "biome",
+    "prisma",
+    "postgres"
+  ],
+  "homepage": "https://github.com/LuizHondo/tracofeito-monorepo#readme",
+  "bugs": {
+    "url": "https://github.com/LuizHondo/tracofeito-monorepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LuizHondo/tracofeito-monorepo.git"
+  },
+  "license": "ISC",
+  "author": "Luiz Hondo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
